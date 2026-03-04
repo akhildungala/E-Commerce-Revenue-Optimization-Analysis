@@ -110,7 +110,9 @@ Ecommerce-Analytics/
 │
 ├── data/
 ├── sql/
-│ └── kpi_queries.sql
+│ └── database.sql
+| └── KPI Analysis.sql
+| └── Churn Analysis.sql
 ├── notebooks/
 │ └── ecommerce_business_analysis.ipynb
 ├── dashboard/
